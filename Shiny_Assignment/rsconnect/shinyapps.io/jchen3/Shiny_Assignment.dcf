@@ -1,0 +1,10 @@
+name: Shiny_Assignment
+account: jchen3
+server: shinyapps.io
+appId: 91722
+bundleId: 408634
+url: https://jchen3.shinyapps.io/Shiny_Assignment/
+when: 1459556707.62571
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: presentation.md|presentation.Rpres|README.md|data/sleep_gallup.csv|presentation-figure/unnamed-chunk-2-1.png|presentation-figure/unnamed-chunk-3-1.png
